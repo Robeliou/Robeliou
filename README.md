@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Robel
+
+I'm Robel Mengesha, an MIS graduate with a broad interest in cybersecurity, from understanding how attacks work to investigating and defending against them. I'm building my skills through hands-on learning while exploring different areas of the field and discovering where I want to deepen my expertise.
+
+## What I'm working on
+
+- Building practical skills through cybersecurity labs and challenges.
+- Documenting my approach, reasoning, and lessons learned.
+- Exploring both offensive and defensive security.
 
 <!--
 **Robeliou/Robeliou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
